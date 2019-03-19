@@ -1,1 +1,1 @@
-web: python przepisy.py
+worker: python przepisy.py
